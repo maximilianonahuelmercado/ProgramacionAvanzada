@@ -3,7 +3,6 @@ package chatbot;
 class Asistente{
 	
 	String nombreAsistente;
-	Bot darRespuesta;
 	
 	public String devolverAgradecimiento(String entrada) {
 		
